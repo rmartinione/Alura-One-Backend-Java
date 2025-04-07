@@ -25,7 +25,7 @@ A implementação do sistema visa reforçar as boas práticas de lógica de prog
 
 Para executar o projeto localmente, siga as instruções abaixo para a IDE de sua escolha. As instruções incluem os passos para **IntelliJ IDEA**, **Eclipse**, **VSCode** e **NetBeans**.
 
-### 1. ![IntelliJ IDEA](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png) **No IntelliJ IDEA**
+### 1. ![IntelliJ IDEA](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/intellijidea.svg) **No IntelliJ IDEA**
 
 1. Abra o **IntelliJ IDEA**.
 2. Selecione **File > Open** e navegue até o diretório onde você clonou o projeto.
@@ -33,7 +33,7 @@ Para executar o projeto localmente, siga as instruções abaixo para a IDE de su
 4. Abra o arquivo `Main.java` localizado no diretório `src`.
 5. Clique com o botão direito sobre o arquivo `Main.java` e selecione **Run 'Main'**.
 
-### 2. ![Eclipse IDE](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eclipse_Logo.svg/220px-Eclipse_Logo.svg.png) **No Eclipse**
+### 2. ![Eclipse IDE](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg) **No Eclipse**
 
 1. Abra o **Eclipse IDE**.
 2. Selecione **File > Import**.
@@ -42,7 +42,7 @@ Para executar o projeto localmente, siga as instruções abaixo para a IDE de su
 5. Navegue até o arquivo `Main.java` no pacote `src`.
 6. Clique com o botão direito sobre o arquivo `Main.java` e selecione **Run As > Java Application**.
 
-### 3. ![VSCode](https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg) **No Visual Studio Code (VSCode)**
+### 3. ![VSCode](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg) **No Visual Studio Code (VSCode)**
 
 1. Abra o **VSCode**.
 2. Certifique-se de que a extensão **Java Extension Pack** está instalada.
@@ -51,7 +51,7 @@ Para executar o projeto localmente, siga as instruções abaixo para a IDE de su
 5. Pressione `Ctrl + Shift + P` (Windows/Linux) ou `Cmd + Shift + P` (Mac) e digite **Java: Compile Java** para compilar o código.
 6. Após compilar, pressione `F5` para rodar o programa.
 
-### 4. ![NetBeans](https://upload.wikimedia.org/wikipedia/commons/0/06/Apache_NetBeans_Logo.svg) **No NetBeans**
+### 4. ![NetBeans](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg) **No NetBeans**
 
 1. Abra o **NetBeans**.
 2. Selecione **File > Open Project**.
