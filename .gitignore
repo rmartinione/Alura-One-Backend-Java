@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+!**Desafio-1-Aula-Java.iml/
+!**Desafio-Java-ContaVirtual.iml/
 
 ### Eclipse ###
 .apt_generated
@@ -27,7 +29,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-### Intellij ###
-.Desafio-1-Aula-Java
-.Desafio-Java-ContaVirtual.iml
