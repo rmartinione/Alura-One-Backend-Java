@@ -2,8 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-!**Desafio-1-Aula-Java.iml/
-!**Desafio-Java-ContaVirtual.iml/
 
 ### Eclipse ###
 .apt_generated
