@@ -29,4 +29,5 @@ bin/
 .DS_Store
 
 ### Intellij ###
-.iml
+.Desafio-1-Aula-Java
+.Desafio-Java-ContaVirtual.iml
